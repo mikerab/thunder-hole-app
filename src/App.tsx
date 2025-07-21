@@ -1,10 +1,11 @@
 import './App.css'
-import ThunderHoleTracker from './components/thunder-hole-tracker'
+//import ThunderHoleTracker from './components/thunder-hole-tracker'
+import ThunderHoleTrackerMulti from './components/thunder-hole-tracker-multi'
 
 function App() {
 
   return (
-    <ThunderHoleTracker />
+    <ThunderHoleTrackerMulti />
   )
 }
 
